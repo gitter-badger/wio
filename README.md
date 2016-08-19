@@ -2,6 +2,8 @@
 Welcome WIO Editors!
 --------------------
 
+[![Join the chat at https://gitter.im/irchelp-wio/Lobby](https://badges.gitter.im/irchelp-wio/Lobby.svg)](https://gitter.im/irchelp-wio/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is the new and improved www.irchelp.org.
 
 PLEASE be aware that this is not a normal open source project, but rather the files that comprise a website being
